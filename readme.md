@@ -47,10 +47,7 @@ The dataset can be found in [Kaggle](https://www.kaggle.com/code/sudhirnl7/linea
    pip install pandas seaborn matplotlib numpy scikit-learn
    ```
 
-3. Run the script:
-   ```bash
-   python linear_regression_medical_costs.py
-   ```
+3. Run the notebook cells
 
 ## Results
 
