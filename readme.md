@@ -39,7 +39,7 @@ The dataset can be found in [Kaggle](https://www.kaggle.com/code/sudhirnl7/linea
 1. Clone the repository:
    ```bash
    git clone https://github.com/ThiagoLahass/Linear-regression-for-predicting-patients-medical-cost.git
-   cd <Linear-regression-for-predicting-patients-medical-cost>
+   cd Linear-regression-for-predicting-patients-medical-cost
    ```
 
 2. Install the required libraries:
